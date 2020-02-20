@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\linq\linq\bin\Debug\linq.exe.config
+D:\Rohitha\c sharp\linq\linq\bin\Debug\linq.exe
+D:\Rohitha\c sharp\linq\linq\bin\Debug\linq.pdb
+D:\Rohitha\c sharp\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\linq\linq\obj\Debug\linq.exe
+D:\Rohitha\c sharp\linq\linq\obj\Debug\linq.pdb
